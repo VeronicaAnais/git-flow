@@ -11,3 +11,8 @@ body {
     align-items: center;
     background-color: aquamarine;
 }
+
+.footer {
+    background-color: red;
+    color: white;
+}
